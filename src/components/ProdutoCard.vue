@@ -23,7 +23,7 @@ defineEmits(['editar', 'remover'])
   justify-content: space-between;
   align-items: center;
   background: white;
-  border: 1px solid #e0d7d5;
+  border: 1px solidrgb(203, 200, 199);
   border-radius: 10px;
   padding: 14px 18px;
   margin-bottom: 10px;
